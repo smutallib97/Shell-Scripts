@@ -1,0 +1,26 @@
+Shell Script 
+
+there 4 types of bash
+
+in order to search what type of your system support bashs
+
+cat /etc/shells
+
+sh - bourne shell
+bash - bourne again shell
+dash
+rbash
+
+
+commands
+touch - to create file
+
+syntax:
+touch filename.sh
+
+while got permission denied msg
+chmod +x filename.sh
+ls -al
+
+
+# is use to comment somthing
