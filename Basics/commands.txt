@@ -24,3 +24,9 @@ ls -al
 
 
 # is use to comment somthing
+
+-p = its a flag whcih allow us to input on same line or prompt
+-sp = this flag allows us to make a silent input means we can type anything in given variable
+        on terminal but can't see whats typing 
+
+-a = used for reading mutiple input or an array elements
